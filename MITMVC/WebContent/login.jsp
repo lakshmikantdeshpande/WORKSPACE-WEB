@@ -18,7 +18,7 @@
 	<div id="left">
 		<h2><a href ="index.jsp">home</a></h2>
 		<h2><a href ="login.jsp">login</a></h2>
-		<h2><a href ="registration.jsp">singup</a></h2>
+		<h2><a href ="registration.jsp">Sign Up</a></h2>
 		
 		
 </div>
